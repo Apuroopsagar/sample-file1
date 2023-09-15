@@ -1,3 +1,11 @@
+
+ git config --global user.name "name"
+ git config --global user.email "email id"
+
+ git config --global --unset user.name "name"  ( to delete username")
+ git config --global --unset user.email "email"  ( to delete email-id)
+
+
 git add file name
 or
 git add . (all files at a time)
