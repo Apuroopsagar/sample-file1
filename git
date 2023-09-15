@@ -1,0 +1,13 @@
+git add file name
+or
+git add . (all files at a time)
+
+ git commit -m "message"
+
+ git push
+
+ls
+ git status
+ git log ( see all the all commits)
+ ls (n lis t of files)
+
